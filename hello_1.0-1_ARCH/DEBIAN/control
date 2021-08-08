@@ -1,6 +1,6 @@
 Package: hello
 Version: 1.0
-Architecture: amd64
+Architecture: ARCH
 Maintainer: Mario Inga <mario21ic@gmail.com>
 Description: A program that greets you.
  Well, it's just a demo for packaging practice
