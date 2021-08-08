@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+.*.swp
+
+hello_1.0-1_amd64/usr/local/bin/hello
+hello_1.0-1_amd64.deb
