@@ -3,7 +3,7 @@ Files to practice DEB packaging
 
 Compiling App
 ```
-$ ./build.sh arm64
+$ ./compile.sh arm64
 ```
 
 Making the DEB package
